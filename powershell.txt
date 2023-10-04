@@ -1,1 +1,3 @@
-NO PUDE COMPLETAR LA PRACTICA PORQUE LA PC PRESENTABA UN ERROR, PERO ESTUVE PRESENCIAL EN LA PRACTICA.
+ (@(& 'C:/Users/vasqu/AppData/Local/Programs/oh-my-posh/bin/oh-my-posh.exe' init pwsh --config='C:\Users\vasqu\$env:POSH_THEMES_PATH\montys.omp.json' --print) -join "`n") | Invoke-Expression
+Import-Module Terminal-Icons
+ Set-PSReadLineOption -PredictionViewStyle ListView
